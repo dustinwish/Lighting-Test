@@ -3,10 +3,15 @@
 
 Setup: 
 git clone git@github.com:WebPlatformForEmbedded/Lightning-SDK-blueprint.git {YOUR_APP_NAME}
+
 cd {YOUR_APP_NAME}
+
 git remote set-url origin {YOUR_REPOSITORY_URL}
+
 Create a new empty git repo on the specified origin url
+
 Set name and identifier in metadata.json.
+
 git commit -anm "init app"
 git push origin master
 npm install
