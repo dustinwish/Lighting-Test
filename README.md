@@ -1,5 +1,5 @@
 # Lighting-Test
-Testing Lighting setup
+### Testing Lighting setup
 
 Setup: 
 git clone git@github.com:WebPlatformForEmbedded/Lightning-SDK-blueprint.git {YOUR_APP_NAME}
